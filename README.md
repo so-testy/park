@@ -14,4 +14,4 @@
 1. Склонировать репозиторий <br /> `git clone https://github.com/so-testy/park.git`
 2. Перейти в репозиторий проекта <br /> `cd park`
 2. Установить зависимости <br /> `npm install`
-3. Склонировать репозиторий <br /> `npm run start`
+3. Запустить приложение <br /> `npm run start`
