@@ -23,4 +23,4 @@
 Пример минимального приложения админа - https://www.figma.com/proto/DRZzzkgXhQNyZJqqRZMU9w/%D0%9F%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B5%D0%B4?node-id=194%3A2524&scaling=min-zoom
 
 ## Схема архитектуры системы
-![alt text](https://ibb.co/X4nGTYk)
+![alt text](https://i.ibb.co/QcWxGDj/Untitled-Diagram-1.png)
