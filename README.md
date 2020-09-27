@@ -15,3 +15,6 @@
 2. Перейти в репозиторий проекта <br /> `cd park`
 2. Установить зависимости <br /> `npm install`
 3. Запустить приложение <br /> `npm run start`
+
+Пользовательское приложение - https://www.figma.com/proto/DRZzzkgXhQNyZJqqRZMU9w/%D0%9F%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B5%D0%B4?node-id=138%3A13866&scaling=scale-down
+Пример минимального приложения админа - https://www.figma.com/proto/DRZzzkgXhQNyZJqqRZMU9w/%D0%9F%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B5%D0%B4?node-id=194%3A2524&scaling=min-zoom
